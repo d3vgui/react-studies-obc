@@ -1,0 +1,20 @@
+.container{
+    height: 350px;
+    background-color: #4991a7;
+    width: 40vw;
+    border-radius: 30px;
+    box-shadow: #00000059 0px 5px 15px;
+    padding: 65px;
+    display: flex;
+    gap: 65px;
+    margin: 45px 0;
+}
+
+.container p{
+    margin-top: 45px;
+}
+
+.container img{
+    height: 350px;
+    border-radius: 10px;
+}
